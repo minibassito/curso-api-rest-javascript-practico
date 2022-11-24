@@ -1,0 +1,22 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso práctico de API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minibassito/curso-api-rest-javascript-practico.git"
+  },
+  "keywords": [
+    "@minibassito"
+  ],
+  "author": "@minibassito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minibassito/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/minibassito/curso-api-rest-javascript-practico#readme"
+}

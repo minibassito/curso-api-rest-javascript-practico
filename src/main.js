@@ -1,0 +1,1 @@
+console.log('API URL = https://www.soportechnics.com/' + API_KEY);
